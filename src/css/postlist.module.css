@@ -1,0 +1,22 @@
+.posts {
+  padding: 4rem 0;
+}
+.posts h1 {
+  text-align: center;
+  letter-spacing: 5px;
+  margin-bottom: 0.5rem;
+  text-transform: capitalize;
+  font-size: 48px;
+}
+.posts h4 {
+  letter-spacing: 5px;
+  text-transform: capitalize;
+  font-size: 14px;
+  text-align: center;
+  margin-bottom: 3rem;
+}
+.center {
+  width: 85vw;
+  margin: 0 auto;
+  max-width: 750px;
+}
